@@ -1,0 +1,8 @@
+TouchPad Mouse Error HP Pavilion X360 in Windows 10 and 11
+
+Problem with the touch pad is not related with this Driver. The root problem is the Gravitys Sensors. For FIX need install intell integrated sensor solution driver.
+
+The Intel Integrated Sensor Solution Driver enables the Accelerometer, Gyroscope, and eCompass sensors that provide rotation control functionality typically used in detachable and convertible system. This package is provided for supported computer models running a supported operating system.
+
+sp141479.exe
+
